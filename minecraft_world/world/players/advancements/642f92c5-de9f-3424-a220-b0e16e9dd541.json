@@ -1,0 +1,47 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-11-20 22:09:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2026-11-20 22:37:08 +0530",
+      "minecraft:snowy_plains": "2026-11-20 22:27:29 +0530",
+      "minecraft:windswept_gravelly_hills": "2026-11-20 22:09:42 +0530"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-11-20 22:19:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-11-20 22:35:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-11-20 22:38:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-11-20 22:38:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-11-20 22:38:04 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}
